@@ -12,11 +12,11 @@
         remote="sai" />
 
     <!-- Sepolicy -->
-    <project path=" device/mediatek/sepolicy" name=" device_mediatek_sepolicy"
+    <project path="device/mediatek/sepolicy" name="device_mediatek_sepolicy"
         remote="sai" />
 
     <!-- Hardware -->
-    <project path="hardware/xiaomi" name="hardware_xiaomi"
+    <project path="hardware/mediatek" name="hardware_mediatek"
         remote="sai" />
 
     <!-- Proprietary vendor -->
